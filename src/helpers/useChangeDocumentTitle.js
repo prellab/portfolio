@@ -2,6 +2,6 @@ import { useEffect } from "react";
 
 export const useChangeDocumentTitle = (pageTitle) => {
   useEffect(() => {
-    document.title = `Larry Wayne Hayes | Personal Portfolio - ${pageTitle}`;
+    document.title = `Brazos Kylene Hamilton | Personal Portfolio - ${pageTitle}`;
   }, [pageTitle]);
 };

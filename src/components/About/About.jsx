@@ -17,7 +17,7 @@ export default function About({ pageTitle }) {
       exit='end'
     >
       <motion.h3 variants={iconsAnim}>Hello there, My name is</motion.h3>
-      <motion.h2 variants={nameAnim}>Larry Wayne Hayes</motion.h2>
+      <motion.h2 variants={nameAnim}>Brazos Kylene Hamilton</motion.h2>
       <motion.h5 variants={iconsAnim}>
         - Full Stack Blockchain Engineer -<br />
         {Math.random() < 0
