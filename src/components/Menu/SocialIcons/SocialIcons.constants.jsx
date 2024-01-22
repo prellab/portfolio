@@ -1,7 +1,7 @@
 // import cv from "./CV.pdf";
 
 export const socialLinks = [
-  { name: "Github", link: "https://github.com/kittystardev" },
+  { name: "Github", link: "https://github.com/ihelpbpov040" },
   // {name: "Resume", link: cv},
-  { name: "Mail", link: "mailto:kittystardev@gmail.com" },
+  { name: "Mail", link: "mailto:ihelpbpov040@gmail.com" },
 ];
