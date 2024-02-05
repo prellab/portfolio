@@ -12,7 +12,7 @@ export const Location = () => {
         whileHover="hover"
         whileTap="hover"
       >
-        Located in <span>US.Virginia</span>
+        Located in <span>Canada.Toronto</span>
         <motion.span className="locationMap" variants={mapAnim}></motion.span>
       </motion.p>
     </div>
